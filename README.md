@@ -13,15 +13,21 @@
 - 💾 Save graph as a `.png` file
 - 🧠 Input validation with helpful error messages
 
+---
 
 ##🛠️ Requirements
+
 -Python 3.7+
 -matplotlib library
 
 ##Install the required package:
+
 pip install matplotlib
 
+---
+
 ##📦 Installation
+
 1.Clone this repository or download the graph_plotter.py file:
 git clone https://github.com/your-username/graph-plotter.git
 cd graph-plotter
@@ -29,7 +35,10 @@ cd graph-plotter
 2.Run the application:
 python graph_plotter.py
 
+---
+
 ##🚀 How to Use
+
 1.Run the app.
 2.Enter:
   -X values (comma-separated)
@@ -40,25 +49,37 @@ python graph_plotter.py
 4.Click Plot Graph
 5.Once the graph appears, enter a file name and click Save Graph to export it as .png
 
+---
+
 ##📁 Project Structure
+
 graph_plotter/
 │
 ├── graph_plotter.py         # Main Python application
 ├── README.md                # Project documentation
 └── screenshot.png           # Optional GUI screenshot
 
+---
+
 ##🧰 Technologies Used
+
 -Python
 -Tkinter
 -Matplotlib
 
+---
+
 ##Author
+
 Hooria Ahmed
 📫 E-mail: hooria.2006.haq@gmail.com
 🌐 GitHub Profile: https://github.com/hooria-ahmed
 
 
+---
+
 ##🙌 Contributing
+
 Contributions are welcome!
 If you'd like to improve the code or add features:
 -Fork this repository
